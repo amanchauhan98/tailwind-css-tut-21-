@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer{
+    .div-design{
+        height: 10rem;
+        width: 20rem;
+        margin: auto;
+        margin-top: 4rem;
+        padding: 4rem;
+        text-align: center;
+        color: red;
+        background-color: skyblue;
+        border-radius: 3rem;
+    }
+}
